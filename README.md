@@ -18,6 +18,7 @@
     <td>
       <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" alt="HTML5"/>
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" alt="CSS3"/>
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap"/>
     </td>
     <td>
       <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="MSSQL" alt="MSSQL"/>
