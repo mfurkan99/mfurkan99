@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Furkan Ozturk!
+# 👋 Hello there!
 
 ## Skills
 <table>
